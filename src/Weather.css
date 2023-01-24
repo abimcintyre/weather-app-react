@@ -1,0 +1,58 @@
+.Weather {
+  max-width: 750px;
+  margin: 50px auto;
+  margin-bottom: 20px;
+  padding: 30px;
+  border: 1px solid white;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 5px rgb(205, 205, 205);
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  text-transform: capitalize;
+}
+
+small {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+strong {
+  font-size: 35px;
+}
+
+.units {
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.forecast {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.weekday {
+  font-size: 25px;
+}
+
+.forecast-temp-min {
+  color: #adadad;
+}
+
+.forecast-temp {
+  font-size: 15px;
+  margin-top: 8px;
+}
